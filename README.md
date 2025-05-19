@@ -72,8 +72,8 @@ A modern messaging application built with Flutter and Appwrite that provides a s
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/chat-app.git
-cd chat-app
+git https://github.com/arifqayoom39/chatrox.git
+cd chat
 ```
 
 2. Install dependencies
@@ -119,4 +119,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Project Link: [https://github.com/yourusername/chat-app](https://github.com/yourusername/chat-app)
+For questions or feedback, please contact us via email: [arifqayoom39@gmail.com](mailto:arifqayoom39@gmail.com)
