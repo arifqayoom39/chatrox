@@ -109,7 +109,7 @@ If you like this project, please give it a ⭐️ on GitHub to show your support
 
 Want to test the app without setting up the development environment? Download our APK and give it a try!
 
-[Download APK](https://uploadnow.io/s/0e54ad70-24db-4c0c-9fe8-86414b856174)
+[Download APK 'in Zip Folder'](https://uploadnow.io/s/ebf43208-3ab1-4771-8bf7-3642f6c5fe21)
 
 **Note:** When testing the app, we recommend using only the email authentication option as the phone authentication requires additional server configuration.
 
